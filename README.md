@@ -36,7 +36,7 @@ This test is a basic layout to see how you confront with a simple problem and to
 - CI/CD Usage
 - Container Configuration
 - Use of Global Best Practice
-- care of details
+- Care of Details
 
 ## Time requirements
 
