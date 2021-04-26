@@ -19,9 +19,11 @@ This assessment is designed to evaluate the technical and organizational skills 
 ### FAQ
 
 Q: Should I use a specific technology?
+
 A: Docker is peferable
 
 Q: Can I use a my own Infra like AWS/GC/Azure?
+
 A: Sure you can use also play-with-docker
 
 ## Why this test
